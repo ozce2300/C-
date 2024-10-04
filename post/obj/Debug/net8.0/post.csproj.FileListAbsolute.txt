@@ -1,0 +1,14 @@
+C:\Users\ozgur\desktop\post\post\bin\Debug\net8.0\post.exe
+C:\Users\ozgur\desktop\post\post\bin\Debug\net8.0\post.deps.json
+C:\Users\ozgur\desktop\post\post\bin\Debug\net8.0\post.runtimeconfig.json
+C:\Users\ozgur\desktop\post\post\bin\Debug\net8.0\post.dll
+C:\Users\ozgur\desktop\post\post\bin\Debug\net8.0\post.pdb
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.AssemblyInfoInputs.cache
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.AssemblyInfo.cs
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.dll
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\refint\post.dll
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.pdb
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.genruntimeconfig.cache
+C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\ref\post.dll
