@@ -12,3 +12,4 @@ C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\refint\post.dll
 C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.pdb
 C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\post.genruntimeconfig.cache
 C:\Users\ozgur\desktop\post\post\obj\Debug\net8.0\ref\post.dll
+C:\Users\ozgur\Desktop\post\post\obj\Debug\net8.0\post.sourcelink.json

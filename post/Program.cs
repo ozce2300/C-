@@ -29,6 +29,7 @@ namespace myGuestbook
                 switch (inp)
                 {
                     case '1':
+                        Console.Clear();
                         Console.CursorVisible = true;
                         string? name = null;
                         bool nameContainsDigits = false;
@@ -73,6 +74,7 @@ namespace myGuestbook
 
 
                     case '2':
+                        Console.Clear();
                         Console.CursorVisible = true;
                         Console.Write("Ange index att radera: ");
                         string? index = Console.ReadLine();
